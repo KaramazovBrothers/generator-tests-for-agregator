@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+.env
+.env.*
+/dist/
+/QA_CONTEXT.md
+/aggregator_cases_generator_v*
+/deposit-generator.html
